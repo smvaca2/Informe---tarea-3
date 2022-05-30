@@ -5,18 +5,33 @@
 
 ***2.  MARCO TEÓRICO***   
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/resistores%20en%20serie.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/corriente%203.PNG)
 
 **Resistencia total en serie**
 
 Cuando los resistores se encuentran conectados en serie los valores de cada reisistor se suman, ya que se oponen en proporción directa a su resistencia. 
 
+![](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/formula%20resistencia.PNG)
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/aplicacion%20%20de%20la%20ley%20de%20ohm.PNG)
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/voltaje%20en%20serie.PNG)
+
+![]()
+
 ![]()
 
 ![]()
 
+![]()
+
+![]()
+
+![]()
+
+![]()
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
  

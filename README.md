@@ -18,18 +18,18 @@
  
 **=====================EJERCICIOS CAPITULO 4==========================**
 
-**2)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie **
+**2)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie**
 
 
 
-**4)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie **
+**4)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie**
 
-**6)¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω? **
+**6)¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?**
 
-**8)Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?**
+**8)Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?**
 
 
-**10)Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.**
+**10)Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0Ω, 2.2Ω, 5.6Ω, 12Ω, y 22Ω. Determine la resistencia total.**
 
 
 **12)Calcule la RT en cada circuito de la figura 5-71**
@@ -76,11 +76,11 @@
 
 **42)En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería**
 
-**44)Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V*
+**44)Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V**
 
-**46)Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?*
+**46)Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?**
 
-**48) Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál esel voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal depotencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+**48) Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál esel voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal depotencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?**
 
 **50)Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400Ω . Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:**
 
@@ -104,47 +104,66 @@
 
 **=====================EJERCICIOS CAPITULO 6==========================**
 
-**2)**
+**2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de
+circuito impreso.**
 
-**4)¿?
-
-
-**6) **
+**4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor**
 
 
-**8)**
+**6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6**
 
 
-**10)**
+**8)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6**
 
-**12)**
 
-**14)**
+**10)Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?**
 
-**16)**
+**12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica**
 
-**18)**
+**14)Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total**
 
-**20)**
+**16)Calcule RT en cada uno de los circuitos de la figura 6-70**
 
-**22)**
+**18)Tres grupos, uno de cinco resistores de 470Ω, otro de diez resistores de 100Ω, y uno más de dos resistores de 100Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos**
 
-**24)**
+**20)Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?**
 
-**26)**
+**22)¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?**
 
-**28)**
+**24)Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
 
-**30)**
+**26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74**
 
-**32)**
+**28)Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76**
 
-**34)**
+**30)Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.**
 
-**36)**
+**32)¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?**
 
+**34)¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica**
+
+**36)A)Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. B)Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM =50 Ω)**
+
+**38)Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
 ***4)Video***
 
+
+**40)Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.
+¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
+
+**42)Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:**
+
+*a)El número de resistores                      b)El valor de cada resistor*
+
+*c)La corriente de cada suma                    d)El voltaje aplicado*
+
+**44)En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?*
+
+**46)¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?**
+
+**48)Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:**
+
+*a)1y2           b)2y3              c)3y4         d)1y4
 
 ***5.Conclusiones***
 

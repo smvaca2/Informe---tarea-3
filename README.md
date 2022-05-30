@@ -9,6 +9,10 @@
 
 ![]()
 
+**Resistencia total en serie**
+
+Cuando los resistores se encuentran conectados en serie los valores de cada reisistor se suman, ya que se oponen en proporción directa a su resistencia. 
+
 ![]()
 
 ![]()

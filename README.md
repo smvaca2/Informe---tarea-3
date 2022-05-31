@@ -123,23 +123,65 @@ En un circuito en serie la potencia total será igual a la suma de sus potencias
 
 *a)¿Qué sucedió?*
 
+Ocurrió una abertura en uno de los resistores
+
 *b)¿Qué debe hacere para arreglar el problema?*
 
+Se debe localizar el resistor abierto utilizando un voltímetro para medir mediante el método de división a la mitad
+
 *c)¿Con qué voltaje ocurrió la falla?
+
+1/2R<sub>T</sub>=12V
+
+R<sub>T</sub>=24V
+
+24V a través del resistor abierto, 0V a través del resto
 
 **=====================EJERCICIOS CAPITULO 6==========================**
 
 **2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de
 circuito impreso.**
 
-**4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor**
+Sí, ya que un circuito en paralelo tiene más de una trayectoria para la corriente que circula entre dos puntos dados.
 
+**4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor**
+
+La corriente entre los extremos es de 12V ya que es un circuito en paralelo 
+
+Si hay 4 resistores y todos son de igual valor entonces: R=550/4= 137.5Ω
+
+Con estos datos calculo la corriente: I=V/R
+
+I=12/137.5 =0.087A 
 
 **6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6**
 
+![]()
 
-**8)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6**
+Para este ejercicio se utilizará la formula:
 
+![]()
+
+Para la posición A la resistencia total sería la suma de las 4 resistencias, la resistencia total sería igual a 0.42kΩ
+
+Para la posición B la resistencia total sería la suma de las resistencias R1, R2 y R3, la resistencia total sería igual a 0.49kΩ
+
+Para la posición C la resistencia total sería la suma de las resistencias R1 y R2, la resistencia total sería igual a 0.64kΩ
+
+
+**8)Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?**
+
+Para este ejercicio primero se calculan las corrientes por cada resistor. Entonces:
+
+a)R1=15/1=15mA           b)R2=15/1.8=8.33mA         c)R3=15/2.2=6.81         d)R4=15/2.7=5.5mA
+
+I<sub>T</sub>=I<sub>1</sub>+I<sub>2</sub>+I<sub>3</sub>+I<sub>4</sub>
+
+Para A la corriente total es la ruma de las 4 corrientes, entonces I<sub>T</sub>=35.64mA
+
+Para B la corriente total es la ruma de las corrientes I1, I2 e I3, entonces I<sub>T</sub>=30.14mA
+
+Para A la corriente total es la ruma de las corrientes I1 e I2, entonces I<sub>T</sub>=23.33mA
 
 **10)Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?**
 

@@ -23,6 +23,14 @@ Cuando los resistores se encuentran conectados en serie los valores de cada reis
 
 ![]()
 
+**Potencias en circuitos en serie**
+
+En un circuito en serie la potencia total será igual a la suma de sus potencias de cada resistor 
+
+![]()
+
+
+
 ![]()
 
 ![]()

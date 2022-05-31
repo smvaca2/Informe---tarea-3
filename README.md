@@ -19,21 +19,19 @@ Cuando los resistores se encuentran conectados en serie los valores de cada reis
 
 ![](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/voltaje%20en%20serie.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/a100f10d617cd427681ff4ef824db6bed4035714/voltaje%20kirchhoff.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/a100f10d617cd427681ff4ef824db6bed4035714/DIVISOR%20VOLTAJE.PNG)
 
 **Potencias en circuitos en serie**
 
 En un circuito en serie la potencia total será igual a la suma de sus potencias de cada resistor 
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/a100f10d617cd427681ff4ef824db6bed4035714/formula%20potencia.PNG)
 
+![](https://github.com/smvaca2/Informe---tarea-3/blob/a100f10d617cd427681ff4ef824db6bed4035714/mediciones%20de%20voltaje.PNG)
 
-
-![]()
-
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/a100f10d617cd427681ff4ef824db6bed4035714/localizacion%20de%20fallas.PNG)
 
 ![]()
 

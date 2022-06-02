@@ -219,13 +219,33 @@ c)R<sub>T</sub>=0.89kΩ
 
 **18)Tres grupos, uno de cinco resistores de 470Ω, otro de diez resistores de 100Ω, y uno más de dos resistores de 100Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos**
 
-Para el primer grupo sería: R<sub>T</sub>= 1/1/5(470)
+Para el primer grupo sería: R<sub>T</sub>=R/n, donde n es el numero de resistores. Entonces R<sub>T</sub>=470/5 = 94Ω
+
+Para el segundo grupo sería: R<sub>T</sub>=R/n, donde n es el numero de resistores. Entonces R<sub>T</sub>=100/10 = 10Ω
+
+Para el tercer grupo sería: R<sub>T</sub>=R/n, donde n es el numero de resistores. Entonces R<sub>T</sub>=100/2 = 50Ω
 
 **20)Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?**
 
+![]()
+
+1/389.2= 1/680+1/R<sub>2</sub> ------------------> 1/R<sub>2</sub>= 1/389.2-1/680
+
+Despenjando R<sub>2</sub> y calculando tengo que: R<sub>2</sub>=910.09Ω
+
 **22)¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?**
 
+![]()
+
+Fácilmente puedo calcular R<sub>T</sub> y aplicando ley de ohm tendría la corriente total ya que uso el valor de resistencia total y el voltaje es el mismo para todo el circuito
+
+A) R<sub>T</sub>=10.24Ω, ya con este dato aplicando ley de ohm I=V/R ---> I=10V/10.24Ω= 0.9765mA 
+
+A) R<sub>T</sub>=333.5Ω, ya con este dato aplicando ley de ohm I=V/R ---> I=25V/333.5Ω= 0.07mA 
+
 **24)Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
+
+
 
 **26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74**
 

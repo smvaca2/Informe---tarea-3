@@ -144,7 +144,7 @@ R<sub>T</sub>=24V
 **2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de
 circuito impreso.**
 
-![]()https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/2cap6.PNG
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/2cap6.PNG)
 
 Sí, ya que un circuito en paralelo tiene más de una trayectoria para la corriente que circula entre dos puntos dados.
 

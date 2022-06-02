@@ -121,6 +121,8 @@ En un circuito en serie la potencia total será igual a la suma de sus potencias
 
 **60)Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W**
 
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/60cap5.PNG)
+
 *a)¿Qué sucedió?*
 
 Ocurrió una abertura en uno de los resistores
@@ -142,6 +144,8 @@ R<sub>T</sub>=24V
 **2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de
 circuito impreso.**
 
+![]()https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/2cap6.PNG
+
 Sí, ya que un circuito en paralelo tiene más de una trayectoria para la corriente que circula entre dos puntos dados.
 
 **4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor**
@@ -156,11 +160,11 @@ I=12/137.5 =0.087A
 
 **6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/6cap6.PNG)
 
 Para este ejercicio se utilizará la formula:
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/formula%20res.PNG)
 
 Para la posición A la resistencia total sería la suma de las 4 resistencias, la resistencia total sería igual a 0.42kΩ
 
@@ -168,8 +172,9 @@ Para la posición B la resistencia total sería la suma de las resistencias R1, 
 
 Para la posición C la resistencia total sería la suma de las resistencias R1 y R2, la resistencia total sería igual a 0.64kΩ
 
-
 **8)Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?**
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/8cap6.PNG)
 
 Para este ejercicio primero se calculan las corrientes por cada resistor. Entonces:
 
@@ -199,17 +204,17 @@ I<sub>5</sub>=500-50-150-25-100 = 175mA
 
 Para este ejercicio se utilizará la formula:
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/formula%20res.PNG)
 
 Reemplazando los valores la resistencia total es de: R=0.57MΩ
 
 **16)Calcule RT en cada uno de los circuitos de la figura 6-70**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/16cap6.PNG)
 
 Para estos calculos se utilizará la formula:
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/formula%20res.PNG)
 
 a)R<sub>T</sub>= 157.94Ω
 
@@ -227,7 +232,7 @@ Para el tercer grupo sería: R<sub>T</sub>=R/n, donde n es el numero de resistor
 
 **20)Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/20cap6.PNG)
 
 1/389.2= 1/680+1/R<sub>2</sub> ------------------> 1/R<sub>2</sub>= 1/389.2-1/680
 
@@ -235,7 +240,7 @@ Despenjando R<sub>2</sub> y calculando tengo que: R<sub>2</sub>=910.09Ω
 
 **22)¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/22cap6.PNG)
 
 Fácilmente puedo calcular R<sub>T</sub> y aplicando ley de ohm tendría la corriente total ya que uso el valor de resistencia total y el voltaje es el mismo para todo el circuito
 

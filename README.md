@@ -185,15 +185,43 @@ Para A la corriente total es la ruma de las corrientes I1 e I2, entonces I<sub>T
 
 **10)Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?**
 
+I<sub>T</sub>=I<sub>1</sub>+I<sub>2</sub>+I<sub>3</sub>+I<sub>4</sub>+I<sub>5</sub>
+
+I<sub>5</sub>=I<sub>T</sub>- I<sub>1</sub>+I<sub>2</sub>+I<sub>3</sub>+I<sub>4</sub>
+
+I<sub>5</sub>=500-50-150-25-100 = 175mA
+
 **12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica**
+
+
 
 **14)Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total**
 
+Para este ejercicio se utilizará la formula:
+
+![]()
+
+Reemplazando los valores la resistencia total es de: R=0.57MΩ
+
 **16)Calcule RT en cada uno de los circuitos de la figura 6-70**
+
+![]()
+
+Para estos calculos se utilizará la formula:
+
+![]()
+
+a)R<sub>T</sub>= 157.94Ω
+
+b)R<sub>T</sub>=18.21kΩ 
+
+c)R<sub>T</sub>=0.89kΩ
 
 **18)Tres grupos, uno de cinco resistores de 470Ω, otro de diez resistores de 100Ω, y uno más de dos resistores de 100Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos**
 
-**20)Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?**
+Para el primer grupo sería: R<sub>T</sub>= 1/1/5(470)
+
+**20)Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?**
 
 **22)¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?**
 

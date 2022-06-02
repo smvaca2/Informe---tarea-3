@@ -245,7 +245,13 @@ A) R<sub>T</sub>=333.5Ω, ya con este dato aplicando ley de ohm I=V/R ---> I=25V
 
 **24)Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
 
+Aplicando ley de ohm: 
 
+R=V/I ----------> R=5V/1.11mA= 4.50kΩ
+
+4.50kΩ/4= 1250Ω
+
+Cada uno de los resistores es de 1250 Ω
 
 **26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74**
 

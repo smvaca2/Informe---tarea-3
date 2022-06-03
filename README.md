@@ -405,22 +405,84 @@ Cada uno de los resistores es de 1250 Ω
 
 **26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74**
 
-**28)Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76**
+![]()
+
+I<sub>s</sub>=I<sub>1</sub>+I<sub>2</sub>
+
+I<sub>2</sub>= 150mA-100mA = 50mA
+
+R<sub>2</sub>=V<sub>s</sub>/I<sub>2</sub> = 10/50=0.2kΩ
+
+R<sub>1</sub>=V<sub>s</sub>/I<sub>1</sub> = 10/100=0.1kΩ
+
+**28)Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76**
+
+![]()
+
+a) I<sub>s</sub>=I<sub>1</sub>+I<sub>2</sub>=3mA
+
+Rl=V<sub>s</sub>/3mA
+
+b)I<sub>s</sub>=I<sub>1</sub>+I<sub>2</sub>
+
+I2=I<sub>s</sub>-I<sub>1</sub>= 50µA-40µA=10µA
+
+I2=V<sub>s</sub>/10µA
+
+c)I<sub>s</sub>=I<sub>1</sub>+I<sub>2</sub>+I<sub>3</sub>
+
+Is= 1A-2.5A+2A=0.5A
+
+Is=V<sub>s</sub>/0.5A
 
 **30)Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.**
 
+![]()
+
+Rt=(1x2.7)kΩ/(1+2.7kΩ) =0.73kΩ
+
+I1=Vs/1kΩ= (81/37)A
+
+I2=(30/37)A
+
+Is=I1+I2 ---------> 3A=Vs+Vs/2.7kΩ 
+
+Vs=(81/37)V
+
 **32)¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?**
+
+Utilizo la formula de resistenica total en circuitos paralelos, una vez sustituidos los valores y con los valores expresados tengo que:
+
+25/12R = 1/Rt -------> Rt=12/25Ω -----------> Vs= 12R/5
+ 
+I1=12/5           I2=12/10       I3=12/15       I4=12/20
 
 **34)¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica**
 
+I1=V/R1 ------------> V=I1xR1= 1mAx50Ω=0.05
+
+R2= V/I2 = 0.05V/0.09mA =5.55mA
+
 **36)A)Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. B)Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM =50 Ω)**
 
-**38)Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
-***4)Video***
+Pt=250+250+250+250+250 
 
+Pt=1250mW
+
+**38)Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
+
+Pt=VxIt ---------> It=P/V =450/(110)=4.09A 
+
+Pt=It<sup>2</sup>xRt 
+
+Rt=Pt/It<sup>2</sup> = 26.9Ω
+
+It=681+681+681+681+681+681=4086mA
 
 **40)Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.
 ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
+
+
 
 **42)Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:**
 

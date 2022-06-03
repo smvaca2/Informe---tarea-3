@@ -467,13 +467,6 @@ I1=V/R1 ------------> V=I1xR1= 1mAx50Ω=0.05
 
 R2= V/I2 = 0.05V/0.09mA =5.55mA
 
-
-![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a6.PNG)
-
-Pt=250+250+250+250+250 
-
-Pt=1250mW
-
 **38)Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
 
 Pt=VxIt ---------> It=P/V =450/(110)=4.09A 

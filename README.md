@@ -233,7 +233,7 @@ V=(1680/2150)x12=9.38V maximo
 
 **42)En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/8c4a9677de7f89e2b4a50666d22ced610c396465/42cap5.PNG)
 
 V<sub>e-f</sub>e-f=(5600/108600)* 100=5.16V
 

@@ -436,6 +436,10 @@ Cada uno de los resistores es de 1250 Ω
 
 *a)1y2           b)2y3              c)3y4         d)1y4
 
+***4.Video***
+
+https://youtu.be/w19HMWCFxME
+
 ***5.Conclusiones***
 
 Con la realización de este informe se pudo comprender de mejor manera las leyes de Kirchhoff y sus aplicaciones. Otro tema más que se tuvo presente en este informe fueron los circuitos en serie y en paralelo, ya que se trabajo con problemas planteados en estos mismamente y se entendieron sus diferencias y características. Para resolver los ejercicios planteados para este informe igual fue de gran importancia el conocimiento y aplicación de la ley de Ohm. 

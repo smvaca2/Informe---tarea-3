@@ -116,7 +116,7 @@ R<sub>T</sub>= 10-910+820+750+680= 1850Ω
 
 **20) Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/802df106055fff57871e23ba3485acaf55cc6af0/20cap5.PNG)
 
 Aplicando ley de ohm:
 
@@ -175,7 +175,7 @@ V<sub>T</sub>= 5.5V+8.2V+12.3V=26V
 
 **32)Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestrecómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/69ab622ea3430fd1de1718853b12f275ad55085d/32%20cap5.PNG)
 
 a)-15V+2V+V<sub>2</sub>+3.2V+1V+1.5V+0.5V=0
 
@@ -187,7 +187,7 @@ V<sub>S</sub>=88V
 
 **34)Encuentre R1, R2 y R3 en la figura 5-82**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/69ab622ea3430fd1de1718853b12f275ad55085d/34CAP5.PNG)
 
 R<sub>1</sub>= V/I = 5.6/0.01=560Ω
 
@@ -201,7 +201,7 @@ R<sub>3</sub>= 1.2/0.01=120Ω
 
 **36)Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/69ab622ea3430fd1de1718853b12f275ad55085d/36CAP5.PNG)
 
 A=4.0V
 
@@ -213,7 +213,7 @@ D=7.2V
 
 **38)Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/69ab622ea3430fd1de1718853b12f275ad55085d/38CAP5.PNG)
 
 A)R<sub>T</sub>=156Ω
 
@@ -225,7 +225,7 @@ V= (5500/6500)x8V=6.77V
 
 **40)Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b)**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/69ab622ea3430fd1de1718853b12f275ad55085d/40cap5.PNG)
 
 V=(1470/2150)x12=8.2 minimo
 

@@ -245,24 +245,51 @@ V<sub>b-f</sub>=(86600/108600)* 100=79.74V
 
 V<sub>a-f</sub>-f=(108600/108600)* 100=100V
 
-
-**44)Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V**
-
 **46)Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?**
 
-**48) Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál esel voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal depotencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?**
+Puedo multiplicar esa potencia por 5:
+
+P<sub>T</sub>=50mWx5=250mW
+
+**48) Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal depotencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?**
+
+Vs=(PtxRt)<sup>1/2</sup>= 3225V
+
+El resistor que supere el 1.2V se quemará
 
 **50)Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400Ω . Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:**
 
 *a)I                   b)V<sub>T</sub>                     c)El valor de cada resistor*
 
+a) I=(PtxRt)<sup>1/2</sup>= 45.83A
+
+b)Vs=Pt/I =19mV
+
+c)R=I<sup>2</sup>/P -------->( R1=300Ω, R2=600Ω, R3=1200Ω)
+
 **52)En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor)**
+
+Utilizando Vs=(PtxRt)<sup>1/2</sup> 
+
+Después se puede aplicar la ley de ohm
 
 **54)Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?**
 
+Puede haber una apertura en algún resistor. 
+
+Se medirían 12V ya que no existen caídas de voltaje presentes en otros resistores
+
 **56)¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?**
 
+![]()
+
+Mediría R1
+
 **58)Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo**
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/e3ce53120fa9198747ee69d17ee073764a23c215/60cap5.PNG)
+
+Sí indica un problema ya que una abertura puede ser creada por un interruptor o por la falla de un componente. Un corto puede ser creado por un interruptor o, accidentalm
 
 **60)Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W**
 

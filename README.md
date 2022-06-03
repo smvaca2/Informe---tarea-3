@@ -281,7 +281,7 @@ Se medirían 12V ya que no existen caídas de voltaje presentes en otros resisto
 
 **56)¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/99a56e4826ec1cc9975fd3f5e7c5117f54bb9e77/a8.PNG)
 
 Mediría R1
 

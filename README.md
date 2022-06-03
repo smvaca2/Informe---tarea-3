@@ -56,13 +56,13 @@ En un circuito en serie la potencia total será igual a la suma de sus potencias
 
 **2)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/893f4b6b04a22982fc830e2e3c8f12d08ad69824/2y4cap5.PNG)
 
 Para interconectar las puntas de los resistores en serie se debe conectar la punta del resistor 8 con la punta del resistor 7, la punta del resistor 4 con la del 5 y la punta del resistor 2 con la del 6
 
 **4)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/893f4b6b04a22982fc830e2e3c8f12d08ad69824/2y4cap5.PNG)
 
 Los resistores que se encuentran conectados en serie son el 6, 8 y 12.
 
@@ -74,7 +74,7 @@ I=V/R ---------> I=12/120= 0.1mA
 
 **8)Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/893f4b6b04a22982fc830e2e3c8f12d08ad69824/8-cap5.PNG)
 
 Todas las corrientes de resistencia se pueden medir  de esta forma
 
@@ -86,7 +86,7 @@ R<sub>T</sub>=1.0+2.2+.6+12+22= 42.8Ω
 
 **12)Calcule la RT en cada circuito de la figura 5-71**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/893f4b6b04a22982fc830e2e3c8f12d08ad69824/12cap5.PNG)
 
 Como todos son en serie aplico R<sub>T</sub>=R1+R2+R3...+Rn
 
@@ -108,7 +108,7 @@ Las resistencias que usaría serían: 100Ω, 470Ω, 560Ω, 680Ω, 1.0kΩ
 
 **18)En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/893f4b6b04a22982fc830e2e3c8f12d08ad69824/18cap5.PNG)
 
 R<sub>T</sub>=R1+R2+R3...+Rn
 
@@ -146,7 +146,7 @@ R=5/2.22= 2252.25Ω
 
 **24)Determine VR1, R2 y R3 en la figura 5-76**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/893f4b6b04a22982fc830e2e3c8f12d08ad69824/24cap5.PNG)
 
 Vr1= 12.3 * 82= 1.0086V
 
@@ -155,6 +155,8 @@ R2=8.7814/12.3=713.9Ω
 R3=2.21/12.3=179.67Ω
 
 **26)Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado**
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/893f4b6b04a22982fc830e2e3c8f12d08ad69824/26cap5.PNG)
 
 R<sub>T</sub>= 1.0+33+68+27+22=151kΩ
 

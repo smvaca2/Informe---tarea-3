@@ -405,7 +405,7 @@ Cada uno de los resistores es de 1250 Ω
 
 **26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a1.PNG)
 
 I<sub>s</sub>=I<sub>1</sub>+I<sub>2</sub>
 
@@ -417,7 +417,7 @@ R<sub>1</sub>=V<sub>s</sub>/I<sub>1</sub> = 10/100=0.1kΩ
 
 **28)Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76**
 
-![]()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a2.PNG)
 
 a) I<sub>s</sub>=I<sub>1</sub>+I<sub>2</sub>=3mA
 
@@ -437,7 +437,7 @@ Is=V<sub>s</sub>/0.5A
 
 **30)Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.**
 
-![]()
+![]https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a3.PNG()
 
 Rt=(1x2.7)kΩ/(1+2.7kΩ) =0.73kΩ
 
@@ -451,6 +451,8 @@ Vs=(81/37)V
 
 **32)¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?**
 
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a4.PNG)
+
 Utilizo la formula de resistenica total en circuitos paralelos, una vez sustituidos los valores y con los valores expresados tengo que:
 
 25/12R = 1/Rt -------> Rt=12/25Ω -----------> Vs= 12R/5
@@ -459,11 +461,15 @@ I1=12/5           I2=12/10       I3=12/15       I4=12/20
 
 **34)¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica**
 
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a5.PNG)
+
 I1=V/R1 ------------> V=I1xR1= 1mAx50Ω=0.05
 
 R2= V/I2 = 0.05V/0.09mA =5.55mA
 
 **36)A)Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. B)Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM =50 Ω)**
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a6.PNG)
 
 Pt=250+250+250+250+250 
 
@@ -490,9 +496,13 @@ It=681+681+681+681+681+681=4086mA
 
 *c)La corriente de cada suma                    d)El voltaje aplicado*
 
-**44)En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?*
+**44)En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?**
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a6.PNG)
 
 **46)¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?**
+
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a7.PNG)
 
 **48)Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:**
 

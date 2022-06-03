@@ -437,7 +437,7 @@ Is=V<sub>s</sub>/0.5A
 
 **30)Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.**
 
-![]https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a3.PNG()
+![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a3.PNG)
 
 Rt=(1x2.7)kΩ/(1+2.7kΩ) =0.73kΩ
 
@@ -467,7 +467,6 @@ I1=V/R1 ------------> V=I1xR1= 1mAx50Ω=0.05
 
 R2= V/I2 = 0.05V/0.09mA =5.55mA
 
-**36)A)Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. B)Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM =50 Ω)**
 
 ![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a6.PNG)
 
@@ -488,9 +487,13 @@ It=681+681+681+681+681+681=4086mA
 **40)Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.
 ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
 
+P=V<sup>2</sup>/R --------->R=(110)<sup>2</sup>/75=161.33Ω
 
+I=110/161.33 =0.68mA 
 
-**42)Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:**
+It= 6(0.68mA)4.09mA
+
+**42)Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:**
 
 *a)El número de resistores                      b)El valor de cada resistor*
 
@@ -503,10 +506,6 @@ It=681+681+681+681+681+681=4086mA
 **46)¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?**
 
 ![](https://github.com/smvaca2/Informe---tarea-3/blob/4cf8cc09e9ee64c5d21ac6a841338be9ad778238/a7.PNG)
-
-**48)Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:**
-
-*a)1y2           b)2y3              c)3y4         d)1y4
 
 ***4.Video***
 
